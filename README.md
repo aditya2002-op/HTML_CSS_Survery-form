@@ -41,6 +41,8 @@ Functionally create a Survey Form as in the image above
 
 - HTML Form Elements
 
+-HTML Input Elements
+
 - CSS Colors-Border Properties
 
 - CSS Margins-Padding
